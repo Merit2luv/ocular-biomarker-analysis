@@ -38,17 +38,17 @@ Key Findings
 - Visual comparisons showed group-based differences across biomarkers.
 
 Visualizations
-![Catalase Chart](visuals/catalase_chart.png)
+![Catalase Chart](visuals/catalase.png)
 
-![Total Protein Chart](visuals/totalprotein_chart.png)
+![Total Protein Chart](visuals/totalprotein.png)
 
-![SOD Chart](visuals/sod_chart.png)
+![SOD Chart](visuals/sod.png)
 
-![GSH Chart](visuals/gsh_chart.png)
+![GSH Chart](visuals/gsh.png)
 
-![MDA Chart](visuals/mda_chart.png)
+![MDA Chart](visuals/mda.png)
 
-![IL1b Chart](visuals/IL-1β_chart.png)
+![IL1b Chart](visuals/IL-1β.png)
 
 Conclusion
 This project demonstrates the application of statistical analysis and data visualization to biomedical research data.
