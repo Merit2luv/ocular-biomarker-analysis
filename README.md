@@ -48,7 +48,7 @@ Visualizations
 
 ![MDA Chart](visuals/mda_chart.png)
 
-![IL-1β Chart](visuals/IL-1β_chart.png)
+![IL1b Chart](visuals/IL-1β_chart.png)
 
 Conclusion
 This project demonstrates the application of statistical analysis and data visualization to biomedical research data.
