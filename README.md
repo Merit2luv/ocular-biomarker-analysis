@@ -1,54 +1,55 @@
-Oxidative Biomarker Analysis in Experimental Groups
+Oxidative Stress Biomarker Analysis
 
 Project Overview
-This project analyzes oxidative stress biomarkers across experimental groups to assess biological response to exposure.
+This project evaluates oxidative stress biomarkers across experimental groups to assess biological responses to exposure. The analysis focuses on identifying trends in oxidative damage, inflammation, and antioxidant activity.
 
-Objective
-To compare biomarker levels across Control, Low dose, Medium dose, and High dose groups.
+Objectives
+- Compare biomarker levels across Control, Low dose, Medium dose, and High dose groups
+- Identify patterns of oxidative stress and inflammatory response
+- Evaluate changes in antioxidant defense mechanisms
 
-Dataset Description
-The dataset contains experimental measurements for:
-- Catalase
-- Total Protein
-- SOD
-- GSH
-- MDA
-- IL-1β
 
 Tools Used
-- Microsoft Excel
-- Jamovi
-- SPSS
-- Data visualization
-- Descriptive statistics
-- ANOVA / Kruskal-Wallis test
+- Excel – Data cleaning and preprocessing  
+- SPSS / Jamovi – Statistical analysis (ANOVA, Kruskal-Wallis)  
+- Data Visualization – Graphical representation of biomarker trends  
 
 Methodology
-1. Data cleaning and arrangement
-2. Grouping of subjects into experimental categories
-3. Calculation of mean and standard deviation
-4. Normality testing
-5. One-way ANOVA / Kruskal-Wallis analysis
-6. Visualization of biomarker trends
-7. Interpretation of biological significance
+1. Grouping of subjects into experimental categories  
+2. Calculation of mean and standard deviation  
+3. Normality testing  
+4. One-way ANOVA / Kruskal-Wallis analysis  
+5. Visualization of biomarker trends  
+6. Interpretation of biological significance  
 
 Key Findings
-- Biomarker values varied across the experimental groups.
-- MDA and IL-1β were useful indicators of oxidative/inflammatory response.
-- Visual comparisons showed group-based differences across biomarkers.
+- MDA levels showed variation across groups, indicating lipid peroxidation activity.  
+- IL-1β patterns suggested inflammatory response across experimental groups.  
+- Antioxidant markers (SOD, Catalase, GSH) demonstrated adaptive changes.  
+- Control group remained relatively stable across biomarkers.  
 
 Visualizations
 ![Catalase Chart](catalase.png)
+Catalase activity showed variation across experimental groups, suggesting changes in antioxidant defense mechanisms in response to exposure.
 
 ![Total Protein Chart](totalprotein.png)
+Total protein levels varied slightly across groups, indicating possible physiological adaptation to experimental conditions.
 
 ![SOD Chart](sod.png)
+SOD levels showed group-based differences, reflecting the body’s response to oxidative stress.
 
 ![GSH Chart](gsh.png)
+GSH levels demonstrated fluctuations across groups, indicating changes in cellular antioxidant capacity.
 
 ![MDA Chart](mda.png)
+MDA levels varied across experimental groups, suggesting differences in lipid peroxidation and oxidative damage.
 
 ![IL1b Chart](il1b.png)
+IL-1β levels indicated inflammatory response patterns across groups, with variation linked to exposure levels.
+
+
+Relevance
+Understanding oxidative biomarkers is critical in assessing tissue damage, inflammation, and disease progression in biomedical research.
 
 Conclusion
-This project demonstrates the application of statistical analysis and data visualization to biomedical research data.
+This project demonstrates the application of statistical analysis and data visualization to biomedical research data, providing insights into oxidative stress and physiological response patterns across experimental groups.
