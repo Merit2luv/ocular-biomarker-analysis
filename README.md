@@ -59,7 +59,7 @@ Full Report
 
 For a detailed statistical analysis and full methodology, see the complete report:
 
-[View Full Analysis](glyphosate_analysis_report.pdf)
+[View Full Analysis](glyphosate_analysis_report.pdf.pdf)
 
 Relevance
 
