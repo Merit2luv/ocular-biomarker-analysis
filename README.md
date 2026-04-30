@@ -55,6 +55,12 @@ MDA levels varied across experimental groups, suggesting differences in lipid pe
 IL-1β levels indicated inflammatory response patterns across groups, with variation linked to exposure levels.
 
 
+Full Report
+
+For a detailed statistical analysis and full methodology, see the complete report:
+
+[View Full Analysis](glyphosate_analysis_report.pdf)
+
 Relevance
 
 Understanding oxidative biomarkers is critical in assessing tissue damage, inflammation, and disease progression in biomedical research.
